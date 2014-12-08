@@ -1,0 +1,40 @@
+
+.logo, .search {
+	display: block;
+	text-align: -webkit-center;
+}
+#logo {
+	height: 95px;
+	width: 269px;
+	padding-top: 112px;
+}
+
+input {
+	width: 572px;
+	height: 30px;
+	background: url("voice.gif");
+	background-size: 14px 19px;
+	background-repeat: no-repeat;
+	background-position: right center;
+	border: 1px solid #CDCDCD;
+}
+
+.buttons_center {
+	margin: 0 auto;
+	text-align: -webkit-center;
+}
+.buttons {
+	display: inline-block;
+	width: 98px;
+	height: 29px;
+	background-color: #F5F5F5;
+	border: 1px solid #DCDCDC;
+	font-size: 11px;
+	font-weight: bold;
+	text-align: center;
+	margin: 16px 8px;
+	padding: 0 8px;
+	color: #444444;
+	line-height: 29px;
+	border-radius: 2px;
+}
